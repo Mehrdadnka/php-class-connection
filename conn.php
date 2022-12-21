@@ -28,7 +28,7 @@
             $this->servername = NULL;
             $this->username = NULL;
             $this->password = NULL;
-            $this->conn =NULL;
+            $this->conn = NULL;
         }
     }
 ?>
