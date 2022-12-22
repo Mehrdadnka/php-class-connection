@@ -1,5 +1,5 @@
 <?php
-	class configDb
+	class ConfigDb
 	{
 		protected $servername,$username,$password;
 
