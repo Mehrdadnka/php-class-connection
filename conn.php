@@ -1,7 +1,7 @@
 <?php
     include('config.php');
 
-    class Connection extends configDb
+    class Connection extends ConfigDb
     {
         public $conn;
         protected $servername,$username,$password;
