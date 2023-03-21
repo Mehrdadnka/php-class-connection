@@ -31,4 +31,3 @@
             $this->conn = NULL;
         }
     }
-?>
